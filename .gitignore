@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.env
+backend/.env
+infra/.env
+backend/prisma/dev.db
+backend/prisma/dev.db-journal
+backend/data/contexts/
+backend/data/media/
